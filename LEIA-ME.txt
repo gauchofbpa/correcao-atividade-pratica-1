@@ -1,0 +1,3 @@
+1. Fiz o CRUD de cada uma das três tabelas, ambas em suas respectivas pastas;
+2. O arquivo SQL da criação do banco de dados é o arquivo chamado "DDL.sql";
+3. Toda diagramação dessa atividade prática está na pasta "diagramas", contendo o modelo conceitual e modelo físico do banco de dados, e o diagrama de caso de uso do sistema.
